@@ -1,12 +1,55 @@
-- 👋 Hi, I’m @Enzo-0105
-- 👀 I’m a DevOps and Cloud engineer  
-- 🌱 I have worked with AWS cloud, Docker, Kubernetes, Jenkins, Github actions, Terraform, Bash scripting, Python ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Linkedin @(Lateef Salako Olatunbosun) or Mail (salakolateef331@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Lateef Salako 👋
 
-<!---
-Enzo-0105/Enzo-0105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | Docker
+
+I am a DevOps engineer with over **2 years of experience**. I have worked extensively with cloud infrastructure, automation, and monitoring tools to help build scalable and reliable systems. I am passionate about building efficient DevOps pipelines and maintaining resilient, secure infrastructure.
+
+### 🔧 My Tech Stack:
+- **Cloud Providers:** AWS
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, Ansible
+- **Monitoring & Observability:** Grafana, Prometheus, Loki
+- **CI/CD:** GitHub Actions, Jenkins, CodePipeline
+- **Networking:** VPC, Subnetting, Load Balancers, Security Groups
+- **Messaging Queues:** Redis, RabbitMQ
+- **Web Servers:** Nginx, Apache
+
+---
+
+### 🌟 What I Do:
+- Build and manage scalable infrastructure on AWS using tools like **Terraform** and **Ansible**.
+- Design, implement, and maintain **CI/CD pipelines** with tools like **GitHub Actions**, **Jenkins**, and **AWS CodePipeline**.
+- Work with **Kubernetes** for container orchestration and **Docker** for containerization.
+- Monitor infrastructure and applications with **Grafana**, **Prometheus**, and **Loki** to ensure optimal performance.
+- Automate and optimize development workflows for faster delivery and deployment.
+
+---
+
+### 🌱 Currently Learning:
+- Advanced **Kubernetes** concepts like service meshes (Istio), Helm chart automation, and RBAC.
+- **Cloud-native security** practices.
+- **Serverless** architecture and more on AWS Lambda.
+
+---
+
+### 📈 GitHub Stats:
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-0105&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect:
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/lateef-salako)
+<!-- - **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle) -->
+<!-- - **Portfolio/Blog:** [Your Portfolio Link](https://yourwebsite.com) -->
+
+---
+
+### 📌 Pinned Repositories:
+Here are some of the repositories I am most proud of:
+
+- [**Full stack Web Application Deployment**](https://github.com/Enzo-0105/devops-stage-2): Deployed a python full stack web application using nginx, nginx proxy manager, Docker.
+  <!--
+- [**EKS Cluster with Terraform**](https://github.com/yourusername/eks-terraform): Automated deployment of EKS clusters using Terraform.
+- [**CI/CD Pipeline with GitHub Actions**](https://github.com/yourusername/ci-cd-pipeline): End-to-end CI/CD pipeline using GitHub Actions, Terraform, and AWS.
+- [**Infrastructure Monitoring with Prometheus and Grafana**](https://github.com/yourusername/monitoring-stack): Full monitoring stack with Prometheus, Grafana, and Loki for observability.
+-->
