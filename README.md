@@ -26,7 +26,7 @@ I am a DevOps engineer with over **2 years of experience**. I have worked extens
 ---
 
 ### 🌱 Currently Learning:
-- Advanced **Kubernetes** concepts like service meshes (Istio), Helm chart automation, and RBAC.
+- Advanced **Kubernetes** concepts like service meshes (Istio), Helm chart automation.
 - **Cloud-native security** practices.
 - **Serverless** architecture and more on AWS Lambda.
 
