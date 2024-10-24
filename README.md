@@ -25,13 +25,6 @@ I am a DevOps engineer with over **2 years of experience**. I have worked extens
 
 ---
 
-### 🌱 Currently Learning:
-- Advanced **Kubernetes** concepts like service meshes (Istio), Helm chart automation.
-- **Cloud-native security** practices.
-- **Serverless** architecture and more on AWS Lambda.
-
----
-
 ### 📈 GitHub Stats:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-0105&show_icons=true&theme=radical)
 
