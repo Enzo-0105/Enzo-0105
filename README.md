@@ -28,11 +28,13 @@ I am a DevOps engineer with over **2 years of experience**. I have worked extens
 ### 📈 GitHub Stats:
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzo-0105&show_icons=true&theme=radical)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-0105&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/lateef-salako)
-<!-- - **Twitter:** [Your Twitter Handle](https://twitter.com/yourhandle) -->
+- **Twitter:** [Your Twitter Handle](https://x.com/only_one_enzo) 
 <!-- - **Portfolio/Blog:** [Your Portfolio Link](https://yourwebsite.com) -->
 
 ---
