@@ -4,7 +4,7 @@
 
 I'm a **DevOps Engineer** with over **3 years of hands-on experience** architecting **secure, scalable, and cost-optimized infrastructure** in the cloud. I specialize in **AWS**, **Kubernetes**, and **Terraform**, with a strong focus on aligning engineering workflows with **business goals**.
 
-My mission is to **empower teams** by designing resilient systems, accelerating time-to-market through automation, and building DevOps strategies that **drive measurable impact**—from reducing downtime to improving developer productivity.
+My mission is to **empower teams** by designing resilient systems, accelerating time-to-market through automation, and building DevOps strategies that **drive measurable impact** from reducing downtime to improving developer productivity.
 
 ---
 
